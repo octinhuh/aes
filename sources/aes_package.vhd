@@ -1,7 +1,7 @@
 -- aes_package.vhd
 -- This package contains all operations required to perform key expansion,
 -- key scheduling, and rounds in AES 256. The operations can be made to work
--- for any other AES key length by adjusting the paramaeters Nk and Nr
+-- for any other AES key length by adjusting the parameters Nk and Nr
 --Copyright (C) 2022  Austin Grieve
 --
 --    This program is free software: you can redistribute it and/or modify
